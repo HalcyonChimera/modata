@@ -1,0 +1,3 @@
+[run]
+source = modata
+omit = modata/test*
